@@ -15,7 +15,7 @@ table thead th{
 	text-align:right;
 }
 table thead th,table tr td{
-	border-width: 0px 0px 1px 1px;
+	border-width: 1px 1px 0px 0px;
 	border-style:solid;
 	border-color:rgb(255, 165, 0);
 	padding: 3px 5px;
