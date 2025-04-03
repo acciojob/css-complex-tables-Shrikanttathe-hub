@@ -1,7 +1,8 @@
 /*  your css code here. If applicable */
 
 table{
-	border: 1px solid orange;
+	border: 1px solid orange ;
+	border-collapse: collapse;
 }
 table thead th{
 	background-color:darkgray;
