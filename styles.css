@@ -2,9 +2,11 @@
 
 table{
 	border-width: 0px 0px 1px 1px;
+	border-style:solid;
+	border-color:rgb(255, 165, 0);
 }
 table thead th{
-	background-color:darkgray;
+	background-color:rgb(136, 136, 136);
 	color:white;
 	padding: 3px 5px;
 }
